@@ -1,90 +1,252 @@
-<h1 align="center">💫 MUSKAN VERMA 💫</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,30:1a0033,60:2d0057,100:ff00ff&height=200&section=header&text=MUSKAN%20VERMA&fontSize=60&fontColor=00FFFF&fontAlignY=55&animation=fadeIn&stroke=ff00ff&strokeWidth=2&desc=Full%20Stack%20Dev%20%7C%20ML%20%2F%20AI%20Engineer&descSize=18&descAlignY=78&descColor=ff99ff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=800&lines=⚡+Full+Stack+Developer;🤖+ML+%2F+AI+Engineer;🧠+Deep+Learning+Architect;🌐+Building+Intelligent+Web+Apps;🚀+Neon+Tokyo+Coder" />
+
+</div>
+
+<br/>
+---
+
+## 🌌 Hi there I'm Muskan 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=FF69B4&center=true&vCenter=true&width=750&lines=Java+Developer;Python+Learner;DSA+Practice;Web+Development;Future+Software+Engineer" />
+<img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="900">
 </p>
 
 ---
 
-# 💫 About Me
+## ⚔️ Coding Arena
 
-🔭 I’m currently working on  
-- Data Structures & Algorithms in Java  
-- Python mini projects  
-- Problem solving on LeetCode  
+<p align="center">
 
-👯 I’m looking to collaborate on  
-- Java & Python projects  
-- Beginner friendly open source  
-- Web development projects  
+<a href="https://leetcode.com/muskanverma">
+<img src="https://img.shields.io/badge/LEETCODE-CYBERPUNK-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-🤝 I’m looking for help with  
-- Advanced DSA  
-- Competitive programming  
-- Real world projects  
+<a href="https://www.hackerrank.com/muskanverma">
+<img src="https://img.shields.io/badge/HACKERRANK-CYBERPUNK-green?style=for-the-badge&logo=hackerrank"/>
+</a>
 
-🌱 I’m currently learning  
-- Java OOP & Collections  
-- Python automation  
-- HTML, CSS, JavaScript  
-
-💬 Ask me about  
-- Java, Python, OOP  
-- DSA basics  
-- College projects  
+</p>
 
 ---
 
-## 🌐 Socials
+## 🤖 Welcome To my Profile 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muskan-verma01/)
+<p align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanverma3715@gmail.com)
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="250"/>
 
----
-
-# 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)
-
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
-
-![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![ScikitLearn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman)
-![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva)
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Connect With Me 
 
-![](https://github-readme-stats.vercel.app/api?username=Muskann-verma&theme=dark)
+<p align="center">
+
+
+<a href="https://www.linkedin.com/in/muskan-verma01">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:2k23.csiot2311633@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+## 🛠️ Tech Arsenal
+
+---
+
+### 💻 Programming Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+---
+
+### 🌐 Frontend Development
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🤖 Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🧠 Deep Learning / AI
+
+<p>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+<img src="https://img.shields.io/badge/DeepLearning-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ComputerVision-0A66C2?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
+
+</p>
+
+---
+
+### 🧰 Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
+</p>
+
+---
+
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=nirdesh-07&theme=dark&hide_border=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Muskann-verma&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskann-verma&layout=compact&theme=dark)
 
 ---
-
-## 👀 Visitors
-
-![](https://visitcount.itsvg.in/api?id=Muskann-verma&icon=0&color=0)
-
 ---
 
 <p align="center">
 
-✨ Thanks for visiting my profile ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=140&section=footer"/>
 
 </p>
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muskann-verma&theme=tokyo-night"/>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+<p align="center">
+
+### ⚡ Thanks for visiting my profile ⚡  
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Stay+Curious;Build+Projects;Never+Stop+Learning;See+You+Again" />
+
+</p>
+
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&color=00FFFF&center=true&vCenter=true&width=750&lines=LeetCode+Practice;HackerRank+Problems;Machine+Learning+Projects;Deep+Learning;Open+Source;Full+Stack+Development" />
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/muskanverma">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/muskanverma">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<img src="https://img.shields.io/badge/MachineLearning-Projects-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DeepLearning-Learning-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenSource-Contributor-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Active-000000?style=for-the-badge&logo=github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nirdesh-07&theme=matrix&no-frame=true&margin-w=10"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=140&section=footer"/>
+
+</p>
+<!-- Proudly created by muskaan -->
